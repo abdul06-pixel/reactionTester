@@ -1,0 +1,25 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*Heading tag specifications*/
+h1{
+  text-align: center;
+  color:#3D0301;
+  background-color: #ECB176;
+}
+
+p{
+  background-color: #dfc8b2;
+}
+
+/*Square Box*/
+#box{
+  height:100px;
+  width: 100px;
+  background-color: blue;
+  cursor: pointer;
+  position: absolute;
+}
